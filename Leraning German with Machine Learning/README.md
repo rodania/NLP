@@ -1,5 +1,3 @@
-Project Title
-
 Learning German using text mining
 
 I am working on use Lexical Approach in learning German
