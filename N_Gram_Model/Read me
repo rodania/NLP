@@ -1,9 +1,0 @@
-N gram language model is a probabilistic language model, used to predict next word.
-It's a sequences of n-items in a sentence, where n can be a positive integer
-n = 1 >>> monogram 
-n = 2 >>> bigram
-n = 3 >>> trigram
-and so on
-This file describes two ways to generate n-grams in Python.
-The first way: using Python 
-The second way: using NLTK package
