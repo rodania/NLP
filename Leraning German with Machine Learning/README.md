@@ -13,7 +13,7 @@ There are plenty of them in English and are used by native speakers in their dai
 
 ## The methodology
 
-I am using N-Gram model to extract these Chuncks, so by learning them, hopfully they would take my further with German learning.
+I am extracting the most frequent sequence of words to get these chuncks, so by learning them, hopfully they would take my further with German learning.
 I am applying this methodology in the classic story of ‘Alice in wonderland’ as an example but I am willing to use it in more modern books or TV series.
 
 ## References
